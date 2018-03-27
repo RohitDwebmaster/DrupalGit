@@ -1,0 +1,17 @@
+
+name: Rohit theme
+type: theme
+description: 'Designed by developer rohit yes'
+package: Custom
+version: '8.5.0'
+core: '8.x'
+libraries:
+  - testpage/style
+
+regions:
+  header: Header
+  content: Content
+
+
+
+

@@ -1,0 +1,24 @@
+# Empty library added for overriding libraries cache.
+ltr:
+  version: VERSION
+  css:
+    theme:
+      css/ltr.css: {}
+      css/style.css: {}
+      css/layout.min.css: {}
+      css/font-awesome-styles.min.css: {}
+
+reset:
+  version: VERSION
+  css:
+    base:
+      dist/css/reset.css: {}
+
+global:
+  version: VERSION
+  css:
+    theme:
+      dist/css/global.ltr.css: {}
+  js:
+    dist/global.js: {}
+    js/global.js: {}
